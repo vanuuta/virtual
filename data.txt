@@ -1,0 +1,15 @@
+6
+tetrahedron
+5
+parallelepiped
+3
+4
+10
+sphere
+1
+sphere
+0.5
+tetrahedron
+1
+tetrahedron
+7
